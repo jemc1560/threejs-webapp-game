@@ -4,6 +4,8 @@
   "description": "Multiplayer ragdoll-fighting game using Threejs.org and Rapier.rs",
   "main": "src/main.js",
   "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1",
     "three": "^0.173.0"
   },
   "devDependencies": {
